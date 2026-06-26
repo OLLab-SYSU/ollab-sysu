@@ -1,8 +1,8 @@
 **https://ollab-sysu.github.io/**
 
-Homepage, Books, and Resources
+**Homepage, Books, and Resources**
 
-Optimization and Learning Lab., SYSU, China.
+**Optimization and Learning Lab., SYSU, China**
 
 <!--
 **OLLab-SYSU/ollab-sysu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
